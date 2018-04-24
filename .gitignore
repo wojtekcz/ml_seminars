@@ -3,3 +3,5 @@
 *.pem
 *.pub
 test2
+/wyklad_3_rnn/data
+/wyklad_2_old_polish_cars/224_epoch9.h5
