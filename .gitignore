@@ -11,3 +11,5 @@ test2
 .ipynb_checkpoints
 /wyklad_nmt_smt/data
 /wyklad_nmt_smt/images
+/tnt_examples/raw
+/tnt_examples/processed
