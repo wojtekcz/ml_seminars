@@ -13,3 +13,4 @@ test2
 /wyklad_nmt_smt/images
 /tnt_examples/raw
 /tnt_examples/processed
+__pycache__
