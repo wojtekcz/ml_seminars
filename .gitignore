@@ -9,8 +9,8 @@ test2
 /rnn_generator_syllables/bin/
 /rnn_generator_syllables/data/
 .ipynb_checkpoints
-/wyklad_nmt_smt/data
-/wyklad_nmt_smt/images
+/wyklad_nmt/data
+/wyklad_nmt/images
 /tnt_examples/raw
 /tnt_examples/processed
 __pycache__
